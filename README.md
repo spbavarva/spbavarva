@@ -9,7 +9,7 @@
 📝 I also write blogs on Medium to share what I learn and give back to the community.
 
 📫 Reach me
-🔗 [LinkedIn](https://www.linkedin.com/in/snehbavarva) | [Portfolio](https://www.snehbavarva.com) | [Medium](https://snehbavarva.medium.com)
+🔗 [snehbavarva.com](https://www.snehbavarva.com) | [LinkedIn](https://www.linkedin.com/in/snehbavarva) | [Portfolio](https://www.snehbavarva.com) | [Medium](https://snehbavarva.medium.com)
 
 
 <!---
