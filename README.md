@@ -1,4 +1,4 @@
-### Hi there, I'm Sneh Bavarva aka @mido
+### Sneh Bavarva aka @mido
 
 Doing security stuffs and learning about Security Engineering, Incident Responding, DFIR, AppSec, and DevSecOps.
 
