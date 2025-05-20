@@ -12,6 +12,8 @@
 🔗 [snehbavarva.com](https://www.snehbavarva.com) | [LinkedIn](https://www.linkedin.com/in/snehbavarva) | [Portfolio](https://www.snehbavarva.com) | [Medium](https://snehbavarva.medium.com)
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spbavarva&show_icons=true&locale=en&layout=compact" alt="spbavarva" /></p>
+
 <!---
 spbavarva/spbavarva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
