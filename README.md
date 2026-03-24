@@ -6,7 +6,7 @@ Recently, I've been diving into SOC automation, SIEM workflows, and exploring ho
 
 Open to collaborating on security projects, research, or anything cool in the offensive/defensive security space!
 
-I also write blogs on my website and Medium to share what I learn and give back to the community. Oh and I also started my own newsletter!
+I also write blogs on my website and Medium to share what I learn and give back to the community.
 
 📫 Reach me
 🔗 [snehbavarva.com](https://www.snehbavarva.com) | [LinkedIn](https://www.linkedin.com/in/snehbavarva) | [Newsletter](https://www.snehbavarva.com/newsletter) | [Medium](https://snehbavarva.medium.com)
