@@ -18,12 +18,6 @@ I also write blogs on my website and Medium to share what I learn and give back 
 
 ---
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  CONTRIBUTION MAP                                           │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spbavarva/spbavarva/output/snake-dark.svg">
