@@ -14,6 +14,25 @@ I also write blogs on my website and Medium to share what I learn and give back 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spbavarva&show_icons=true&locale=en&layout=compact" alt="spbavarva" /></p>
 
+<!-- CONTRIBUTION_SNAKE_START -->
+
+---
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  CONTRIBUTION MAP                                           │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spbavarva/spbavarva/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/spbavarva/spbavarva/output/snake.svg" alt="GitHub contribution snake animation">
+  </picture>
+</p>
+
+<!-- CONTRIBUTION_SNAKE_END -->
+
 
 <!---
 spbavarva/spbavarva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
