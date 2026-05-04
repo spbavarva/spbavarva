@@ -23,7 +23,9 @@ jobs:
 
       - name: Push snake SVGs to output branch
         run: |
-          cd dist
+          tmp_dir="$(mktemp -d)"
+          cp dist/snake.svg dist/snake-dark.svg "$tmp_dir/"
+          cd "$tmp_dir"
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
