@@ -1,12 +1,17 @@
 ### Sneh Bavarva aka @mystic_mido
 
-Doing security stuffs and learning about Security Engineering, Incident Responding, DFIR, AppSec, and DevSecOps.
+Cybersecurity engineer focused on Application Security, Vulnerability Research, AI-assisted security review, Cloud Security, and Security Automation.
 
-Recently, I've been diving into SOC automation, SIEM workflows, and exploring how AI can be used in security.
+I work on practical offensive and defensive security projects: web/API testing, exploit validation, cloud attack-path analysis, CI/CD security controls, SOC/IR automation, and threat intelligence workflows.
 
-Open to collaborating on security projects, research, or anything cool in the offensive/defensive security space!
+Recently, I've been building CloudSentinel for AI-assisted AWS attack-path analysis, 0day.digest for high-signal threat intelligence, and SOAR/EDR labs for detection and response validation.
 
-I also write blogs on my website and Medium to share what I learn and give back to the community. Oh and I also started my own newsletter!
+Featured research:
+- [Secure Vibe Coding in 2026: The Files, Prompts and Rules of Use and Research](https://snehbavarva.medium.com/secure-vibe-coding-in-2026-the-files-prompts-and-rules-of-use-and-research-e821021ee908) - research and practical guardrails for safer agentic engineering, secure AI coding workflows, project rules, prompt patterns, threat models, and review gates.
+
+I also write technical blogs on my website and Medium, and publish a security newsletter.
+
+Open to collaborating on AppSec, vulnerability research, AI security, cloud security, detection engineering, and offensive/defensive security tooling.
 
 📫 Reach me
 🔗 [snehbavarva.com](https://www.snehbavarva.com) | [LinkedIn](https://www.linkedin.com/in/snehbavarva) | [Newsletter](https://www.snehbavarva.com/newsletter) | [Medium](https://snehbavarva.medium.com)
